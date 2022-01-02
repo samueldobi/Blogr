@@ -1,0 +1,92 @@
+.main-sect{
+    background-image:url("../images/bg-pattern-intro-desktop.svg");
+    background-repeat: repeat;
+    width: 100%;
+    height:auto; 
+    background-size: contain;   
+    background-color:#007397;
+    border-radius: 0px 0px 0px 80px;
+}
+.navbar .navbar-nav>.nav-item> a{
+    color:#fff;
+}
+.sign-link>li{
+    color:#fff;
+}
+#login-mobile{
+    color:#fff;
+}
+.sign-link li{
+    list-style-type: none;
+    margin: 5px 10px 0px 5px; 
+    padding: 5px;
+}
+.sign-link li:hover{
+    border-radius: 8px;
+    background-color:rgba(0, 0, 0, 0.1);
+}
+.login-form{
+    display: none;
+}
+.login-form li{
+    list-style-type: none;
+}
+.header-content h1,#grow{
+    text-align: center;
+    margin: 10px 10px 10px 10px ;
+    color: #fff;
+}
+.call-to-act p{
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    border-radius: 30px;
+    color: #fff;
+    margin: 5px;
+    border: 1px solid #fff;
+}
+.call-to-act p:hover{
+    background-color: #fff;
+    color:#007397;
+}
+h2{
+    text-align: center;
+}
+.desktop-img img{
+    max-width:100%;
+}
+.state{
+    background-color: #1f3f5b;
+    height: 280px;
+    margin-bottom: 10rem;
+    border-radius: 80px 0px 80px 0px;
+}
+.iphone-holder img{
+    transform: translateY(rem);
+    width: 60%;
+}
+#state-head{
+    text-align: center;
+    color: #fff;
+}
+#state-txt{
+    text-align:center;
+    color: #fff;
+    padding: 10px;
+}
+.laptop-img img{
+    width: 80%;
+}
+.footer{
+    background-color: #2c2d3f;
+    border-radius: 0px 80px 0px 0px;
+}
+.footer-link li{
+    list-style-type: none;
+    color: #fff;
+}
+h3{
+    color: white;
+}
+.row>.col-xl-3{
+    margin-top:2rem;
+}
