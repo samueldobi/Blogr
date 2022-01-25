@@ -1,2 +1,2 @@
 # Blogr
-practice
+  This one page website was adapted from a frontendmentor challenge . 
